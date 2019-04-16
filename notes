@@ -1,0 +1,21 @@
+theorie predisait collision accessible, mieux que pardoxe anniv ~ 2^80
+
+construction compression + merkle-damgard
+
+prefix, presque collision, collision
+
+choix du prefix pdf
+
+decrire compression
+
+intuition probleme structure
+
+reduire a shi1
+
+collision locale en 6 rondes
+
+shi2
+
+introduire bit neutres
+
+usage pour presque collision
